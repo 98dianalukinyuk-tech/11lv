@@ -8,10 +8,9 @@
                       "src":  "assets/favicon.svg"
                   }
               ],
-    "background_color":  "#f3eadc",
-    "theme_color":  "#4b1118",
-    "name":  "Fenikss — Vakara izdevums",
+    "background_color":  "#f1ede3",
+    "theme_color":  "#17352b",
+    "name":  "Klondaika — Dzintara pagalms",
     "start_url":  "index.html",
-    "short_name":  "Fenikss LV"
+    "short_name":  "Klondaika LV"
 }
-

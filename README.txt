@@ -1,8 +1,9 @@
-﻿FENIKSS вЂ” VAKARA IZDEVUMS
-Latvija В· latvieЕЎu valoda (lv-LV)
+﻿11LV — PILSĒTAS MARŠRUTS
+Latvija · latviešu valoda (lv-LV)
 
-NeatkarД«ga informatД«va fiziskas izklaides vietas koncepcija pieauguЕЎajiem. RedakcionДЃla ЕѕurnДЃla dizaina sistД“ma: vertikДЃls satura rДЃdД«tДЃjs, trД«s mainД«gi lapu izkДЃrtojumi, 23 HTML lapas un ДЌetras oriДЈinДЃlas vizualizДЃcijas.
+Neatkarīga informatīva fiziskas izklaides vietas koncepcija pieaugušajiem. Nav oficiāla 11lv vietne vai konkrētas spēļu zāles, operatora un licences apliecinājums.
 
-Nav oficiДЃla Fenikss vietne, operatora vai licences apliecinДЃjums. Nav tieЕЎsaistes spД“Дјu, kontu, maksДЃjumu, rezervДЃciju vai datu nosЕ«tД«ЕЎanas. Pirms publicД“ЕЎanas izpildiet PUBLICESANAS-PARBAUDE.txt un aizstДЃjiet example.invalid.
+23 HTML lapas, lokāls CSS un JavaScript, četras oriģinālas vizualizācijas, pilni SEO metadati, robots.txt, sitemap.xml, 404, sīkdatņu paziņojums un demonstrācijas forma.
 
-Atveriet index.html.
+Atveriet index.html. Nav tiešsaistes spēļu, kontu, maksājumu, rezervāciju vai datu nosūtīšanas. Pirms publicēšanas izpildiet PUBLICESANAS-PARBAUDE.txt.
+
