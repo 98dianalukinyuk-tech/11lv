@@ -1,0 +1,13 @@
+﻿PUBLICĒŠANAS PĀRBAUDE — 11LV PILSĒTAS MARŠRUTS
+
+1. Apstiprināt zīmola un attēlu tiesības.
+2. Apstiprināt operatoru, licenci, adresi, pašvaldības nosacījumus, darba laiku un kontaktus.
+3. Pārbaudīt aktuālo Azartspēļu un izložu likuma redakciju un uzraudzības institūciju.
+4. Pārbaudīt 18+, identitātes kontroli, videonovērošanu un mājas noteikumus.
+5. Pārbaudīt IAUI Pašatteikušos personu reģistra un SPKC atbalsta informāciju.
+6. Apstiprināt piedāvājumu, iekārtas, ēdināšanu, pasākumus un pieejamību.
+7. Nomainīt example.invalid visos canonical, Open Graph, JSON-LD un sitemap.xml.
+8. Noņemt noindex un robots.txt aizliegumu tikai pēc pilnas juridiskas un redakcionālas pārbaudes.
+9. Pielāgot privātumu, sīkdatnes, hostingu, žurnālus, videonovērošanu un formas faktiskajai datu plūsmai.
+10. Pārbaudīt saites, mobilo izkārtojumu, tastatūru, kontrastu un formas.
+

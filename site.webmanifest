@@ -1,0 +1,16 @@
+﻿{
+    "display":  "standalone",
+    "lang":  "lv-LV",
+    "icons":  [
+                  {
+                      "type":  "image/svg+xml",
+                      "sizes":  "any",
+                      "src":  "assets/favicon.svg"
+                  }
+              ],
+    "background_color":  "#f1ede3",
+    "theme_color":  "#17352b",
+    "name":  "Klondaika — Dzintara pagalms",
+    "start_url":  "index.html",
+    "short_name":  "Klondaika LV"
+}

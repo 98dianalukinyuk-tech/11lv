@@ -1,0 +1,5 @@
+﻿User-agent: *
+Disallow: /
+# Koncepcija: noņemt aizliegumu tikai pēc pilnas pārbaudes.
+
+
